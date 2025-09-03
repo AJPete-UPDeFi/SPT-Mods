@@ -1,0 +1,9 @@
+{
+    "name": "UHSpartan-MetaAmmo",
+    "version": "1.1.0",
+    "sptVersion": "~3.11",
+    "main": "src/mod.js",
+    "author": "UHSpartan",
+    "license": "MIT",
+    "description": "UH-ME: creates a meta round per caliber with maxed damage/pen and laser-like handling. Mechanic LL1 for ₽500, Flea-enabled. Bots blocked by default."
+}

@@ -1,0 +1,9 @@
+{
+    "name": "UHSpartan-ExplosiveAmmoLite",
+    "version": "1.0.0",
+    "sptVersion": "~3.11",
+    "main": "src/mod.js",
+    "author": "UHSpartan",
+    "license": "MIT",
+    "description": "Adds explosive EX variants of every ammo caliber; also sells them via Mechanic and enables Flea listing."
+}
