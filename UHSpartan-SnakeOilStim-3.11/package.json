@@ -1,0 +1,9 @@
+{
+    "name": "UHSpartan-SnakeOilStim",
+    "version": "1.1.0",
+    "sptVersion": "~3.11",
+    "main": "src/mod.js",
+    "author": "UHSpartan",
+    "license": "MIT",
+    "description": "Snake Oil: a lore-friendly god-tier stim cloned from Propital. World-loot & bot spawn toggles. Craftable in the hideout. Therapist LL1."
+}
